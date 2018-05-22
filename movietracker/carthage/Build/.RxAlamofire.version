@@ -1,0 +1,9 @@
+{
+  "commitish" : "872f8fabde6c914736bcb2766cce9770e268de4b",
+  "iOS" : [
+    {
+      "name" : "RxAlamofire",
+      "hash" : "90d2afbc1227c5052c9beaf9af4b4b05e09e80de0a5730c3d3bccee5abe61936"
+    }
+  ]
+}
